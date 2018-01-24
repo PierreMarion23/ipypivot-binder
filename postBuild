@@ -1,2 +1,2 @@
 jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable --py ipywidget_pivot_table
+jupyter nbextension enable --py ipypivot
